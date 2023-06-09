@@ -6,10 +6,16 @@ html {
 
 body {
   min-height: 100VH;
+  padding: 20px 40px;
 }
 
 h1 {
   font-size: 2.25em;
+}
+
+.name-container {
+  font-weight: bold;
+  line-height: normal;
 }
 
 nav {
@@ -17,8 +23,37 @@ nav {
   color: white;
 }
 
+section {
+  height: calc(100vh - 160px);
+}
+
+section div {
+  max-height: 100%;
+}
+
+.image-container {
+  text-align: center;
+}
+
+#profile-pic {
+  max-height: 100%;
+}
+
 img {
-  border-radius: 20px;
+  border-radius: 5px;
   opacity: 85%;
+}
+
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin: auto;
+}
+
+footer img {
+  width: 50px;
+  margin: 20px 10px;
 }
 

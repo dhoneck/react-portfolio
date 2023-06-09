@@ -5,7 +5,7 @@ export default function About() {
     <div className="p-3">
       <h1>About</h1>
       <p>
-        My name is Dustin Honeck and I am an aspiring web and software developer based out of Wisconsin. In 2016, I received a bachelor's degree in information systems and a minor in computer science from the University of Wisconsin-La Crosse. I have been working as an IT technician for the last 6 years at a local school district but I am looking to transfer my career to web or software development.
+        My name is Dustin Honeck and I am a web and software developer based out of Wisconsin. In 2016, I received a bachelor's degree in information systems and a minor in computer science from the University of Wisconsin-La Crosse. I have been working as an IT technician for the last 7 years at a local school district but I am looking to transfer my career to web or software development.
       </p>
       <br/>
       <p>

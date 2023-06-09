@@ -6,7 +6,7 @@ function Header({ currentPage, handlePageChange }) {
   return (
     <nav className='navbar' role='navigation' aria-label='main navigation'>
       <div className='navbar-brand'>
-        <a href='/' className='navbar-item'>
+        <a href='/' className='navbar-item name-container'>
           Dustin Honeck
           <br />
           Full Stack Developer
