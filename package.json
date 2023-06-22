@@ -1,6 +1,6 @@
 {
+  "homepage": "https://dhoneck.github.io/react-portfolio",
   "name": "react-portfolio",
-  "homepage": "http://dhoneck.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
