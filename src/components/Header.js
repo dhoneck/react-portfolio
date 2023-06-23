@@ -61,6 +61,16 @@ function Header({ currentPage, handlePageChange }) {
 
           <div className="navbar-item">
             <a
+              href="#resume"
+              onClick={() => handlePageChange('Resume')}
+              className={currentPage === 'Resume' ? 'navbar-item active' : 'navbar-item'}
+            >
+              Resume
+            </a>
+          </div>
+
+          <div className="navbar-item">
+            <a
               href="#contact"
               onClick={() => handlePageChange('Contact')}
               className={currentPage === 'Contact' ? 'navbar-item active' : 'navbar-item'}

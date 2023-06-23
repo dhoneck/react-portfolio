@@ -9,7 +9,7 @@ export default function About() {
       </p>
       <br/>
       <p>
-        I am currently enrolled in a full stack developer bootcamp through the University of Wisconsin until May of 2023. Please reach out if you are looking to hire a developer for your company or organization.
+        I recently completed a full stack developer bootcamp through the University of Wisconsin in May of this year. Please reach out if you are looking to hire a developer for your company or organization.
       </p>
     </div>
   );
