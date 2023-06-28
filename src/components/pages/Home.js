@@ -8,7 +8,7 @@ export default function Home() {
         <div className="columns">
           <div className="column is-half">
             <h1>I'm Dustin, a Web Developer</h1>
-            <p>I am a full web stack developer that specializes in the MERN stack.</p>
+            <p>I am a full web stack developer that specializes in the MERN stack and Python.</p>
           </div>
           <div className="column is-one-half image-container">
             <img id='profile-pic' src={ DHPicture }/>

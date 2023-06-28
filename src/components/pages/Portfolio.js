@@ -7,6 +7,8 @@ export default function Portfolio() {
       <p>
         Check out some of my projects!
       </p>
+      <br></br>
+      <a href="https://github.com/dhoneck" target='_blank' className='my-5'>GitHub: /dustin-honeck</a>
     </div>
   );
 }

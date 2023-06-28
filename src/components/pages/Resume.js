@@ -1,10 +1,12 @@
 import React from 'react';
+import ResumeFile from '../../dh-resume.pdf';
 
 export default function Resume() {
   return (
     <div className="p-3">
       <h1>Resume</h1>
-      <button className='button my-4'>Download Resume</button>
+      {/* <button className='button my-4' onClick={ResumeFile}>View Resume</button> */}
+      <a href={ ResumeFile } download="dh-resume.pdf" className='button mb-5'>Download Resume</a>
       <div className='columns'>
         <div className='column is-half'>
           <h2 class>Technical Skills</h2>
