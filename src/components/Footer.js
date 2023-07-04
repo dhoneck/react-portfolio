@@ -1,9 +1,9 @@
 import React from 'react';
 
-import GitHubIcon from '../github-icon.png';
-import LinkedInIcon from '../linkedin-icon.png';
-import PhoneIcon from '../phone-icon.png';
-import EmailIcon from '../email-icon.png';
+import GitHubIcon from '../images/github-icon.png';
+import LinkedInIcon from '../images/linkedin-icon.png';
+import PhoneIcon from '../images/phone-icon.png';
+import EmailIcon from '../images/email-icon.png';
 
 function Header({ currentPage, handlePageChange }) {
   const [isActive, setIsActive] = React.useState(false);

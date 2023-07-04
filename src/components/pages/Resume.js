@@ -3,12 +3,10 @@ import ResumeFile from '../../dh-resume.pdf';
 
 export default function Resume() {
   return (
-    <div className="p-3">
+    <div className='p-3'>
       <h1>Resume</h1>
-      {/* <button className='button my-4' onClick={ResumeFile}>View Resume</button> */}
-      <a href={ ResumeFile } download="dh-resume.pdf" className='button mb-5'>Download Resume</a>
-      <div className='columns'>
-        <div className='column is-half'>
+      <a href={ ResumeFile } download='dh-resume.pdf' className='button mb-5'>Download Resume</a>
+      <div>
           <h2 class>Technical Skills</h2>
           <ul className='tech-skills'>
             <li>HTML</li>
@@ -42,8 +40,7 @@ export default function Resume() {
             <li>Mac OS</li>
             <li>Command Line</li>            
           </ul>
-        </div>
-        <div className='column is-half'>
+          <br />
           <h2>Soft Skills</h2>
           <ul className='soft-skills'>
             <li>Communication</li>
@@ -63,7 +60,6 @@ export default function Resume() {
             <li>Passion</li>
             <li>Respectfulness</li>
           </ul>
-        </div>
       </div>
     </div>
   );
