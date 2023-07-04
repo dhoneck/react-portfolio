@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5bd7246b.css",
-    "main.js": "/static/js/main.41234640.js",
+    "main.css": "/static/css/main.7864a3ba.css",
+    "main.js": "/static/js/main.c733598c.js",
     "static/media/dh_picture.png": "/static/media/dh_picture.f288d54f0addc86f6b6f.png",
+    "static/media/fitness-focus-screenshot.png": "/static/media/fitness-focus-screenshot.83c71e0d65c24418d040.png",
+    "static/media/activity-finder-screenshot.png": "/static/media/activity-finder-screenshot.ebf9d6b5827adb51f3a2.png",
+    "static/media/track-my-dollars-screenshot.png": "/static/media/track-my-dollars-screenshot.aa73cf7da04a2b4583e9.png",
     "static/media/dh-resume.pdf": "/static/media/dh-resume.b53b72bfb72198cf1dff.pdf",
+    "static/media/goal-tracker-screenshot.png": "/static/media/goal-tracker-screenshot.3dcb101713e347d62c24.png",
+    "static/media/password-generator-screenshot.png": "/static/media/password-generator-screenshot.388bf632baf968c2da76.png",
     "static/media/phone-icon.png": "/static/media/phone-icon.bedd01f26104dabd1ed3.png",
     "static/media/email-icon.png": "/static/media/email-icon.ac71025845dc148eb9cf.png",
     "static/media/linkedin-icon.png": "/static/media/linkedin-icon.b50683f8779235855930.png",
     "index.html": "/index.html",
-    "main.5bd7246b.css.map": "/static/css/main.5bd7246b.css.map",
-    "main.41234640.js.map": "/static/js/main.41234640.js.map"
+    "main.7864a3ba.css.map": "/static/css/main.7864a3ba.css.map",
+    "main.c733598c.js.map": "/static/js/main.c733598c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bd7246b.css",
-    "static/js/main.41234640.js"
+    "static/css/main.7864a3ba.css",
+    "static/js/main.c733598c.js"
   ]
 }
