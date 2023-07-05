@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.7864a3ba.css",
-    "main.js": "/static/js/main.c733598c.js",
+    "main.css": "/static/css/main.1ecf1872.css",
+    "main.js": "/static/js/main.1f85138b.js",
     "static/media/dh_picture.png": "/static/media/dh_picture.f288d54f0addc86f6b6f.png",
     "static/media/fitness-focus-screenshot.png": "/static/media/fitness-focus-screenshot.83c71e0d65c24418d040.png",
     "static/media/activity-finder-screenshot.png": "/static/media/activity-finder-screenshot.ebf9d6b5827adb51f3a2.png",
     "static/media/track-my-dollars-screenshot.png": "/static/media/track-my-dollars-screenshot.aa73cf7da04a2b4583e9.png",
-    "static/media/dh-resume.pdf": "/static/media/dh-resume.b53b72bfb72198cf1dff.pdf",
+    "static/media/weather-checker-screenshot.png": "/static/media/weather-checker-screenshot.9bc184f84356e9b09f2a.png",
+    "static/media/dh-resume.pdf": "/static/media/dh-resume.8daf98a503b3cb113d7c.pdf",
     "static/media/goal-tracker-screenshot.png": "/static/media/goal-tracker-screenshot.3dcb101713e347d62c24.png",
+    "static/media/work-day-scheduler-screenshot.png": "/static/media/work-day-scheduler-screenshot.923d5ea5782243152c52.png",
     "static/media/password-generator-screenshot.png": "/static/media/password-generator-screenshot.388bf632baf968c2da76.png",
     "static/media/phone-icon.png": "/static/media/phone-icon.bedd01f26104dabd1ed3.png",
+    "static/media/javascript-quiz-screenshot.png": "/static/media/javascript-quiz-screenshot.4d0dc47cba5851fa5929.png",
     "static/media/email-icon.png": "/static/media/email-icon.ac71025845dc148eb9cf.png",
     "static/media/linkedin-icon.png": "/static/media/linkedin-icon.b50683f8779235855930.png",
     "index.html": "/index.html",
-    "main.7864a3ba.css.map": "/static/css/main.7864a3ba.css.map",
-    "main.c733598c.js.map": "/static/js/main.c733598c.js.map"
+    "main.1ecf1872.css.map": "/static/css/main.1ecf1872.css.map",
+    "main.1f85138b.js.map": "/static/js/main.1f85138b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7864a3ba.css",
-    "static/js/main.c733598c.js"
+    "static/css/main.1ecf1872.css",
+    "static/js/main.1f85138b.js"
   ]
 }
