@@ -14,6 +14,7 @@ function Header({ currentPage, handlePageChange }) {
 
         <a
           onClick={() => {
+            console.log('clicked!');
             setIsActive(!isActive)
           }}
           role='button'
@@ -32,7 +33,10 @@ function Header({ currentPage, handlePageChange }) {
           <div className="navbar-item">
             <a
               href="#home"
-              onClick={() => handlePageChange('Home')}
+              onClick={() => {
+                handlePageChange('Home');
+                setIsActive(!isActive);
+              }}
               className={currentPage === 'Home' ? 'navbar-item active' : 'navbar-item'}
             >
               Home
@@ -42,7 +46,10 @@ function Header({ currentPage, handlePageChange }) {
           <div className="navbar-item">
             <a
               href="#portfolio"
-              onClick={() => handlePageChange('Portfolio')}
+              onClick={() => {
+                handlePageChange('Portfolio')
+                setIsActive(!isActive);
+              }}
               className={currentPage === 'Portfolio' ? 'navbar-item active' : 'navbar-item'}
             >
               Portfolio
@@ -52,7 +59,10 @@ function Header({ currentPage, handlePageChange }) {
           <div className="navbar-item">
             <a
               href="#about"
-              onClick={() => handlePageChange('About')}
+              onClick={() => {
+                handlePageChange('About')
+                setIsActive(!isActive);
+              }}
               className={currentPage === 'About' ? 'navbar-item active' : 'navbar-item'}
             >
               About
@@ -62,7 +72,10 @@ function Header({ currentPage, handlePageChange }) {
           <div className="navbar-item">
             <a
               href="#resume"
-              onClick={() => handlePageChange('Resume')}
+              onClick={() => {
+                handlePageChange('Resume')
+                setIsActive(!isActive);
+              }}
               className={currentPage === 'Resume' ? 'navbar-item active' : 'navbar-item'}
             >
               Resume
@@ -72,7 +85,10 @@ function Header({ currentPage, handlePageChange }) {
           <div className="navbar-item">
             <a
               href="#contact"
-              onClick={() => handlePageChange('Contact')}
+              onClick={() => {
+                handlePageChange('Contact')
+                setIsActive(!isActive);
+              }}
               className={currentPage === 'Contact' ? 'navbar-item active' : 'navbar-item'}
             >
               Contact

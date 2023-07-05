@@ -9,7 +9,7 @@ export default function About() {
       </p>
       <br/>
       <p>
-        I recently completed a MERN full stack developer bootcamp through the University of Wisconsin in May of this year. Please reach out if you are looking to hire a developer for your company or organization. Examples of my work can be found on my <a href='/#portfolio'>Portfolio</a> page or on my <a href='https://github.com/dhoneck'>GitHub</a> page.
+        I recently completed a MERN full stack developer bootcamp through the University of Wisconsin in May of this year. Please reach out if you are looking to hire a developer for your company or organization. Examples of my work can be found on my Portfolio page or on my <a href='https://github.com/dhoneck'>GitHub</a> page.
       </p>
     </div>
   );

@@ -30,12 +30,14 @@ export default function Resume() {
             <li>Python</li>
             <li>Django</li>
             <li>Scrapy</li>
+            <li>Unit Testing</li>
             <li>Git</li>
             <li>GitHub</li>
             <li>Heroku</li>
             <li>PythonAnywhere</li>
             <li>REST APIs</li>
-            <li>Progressive Web Applications</li>
+            <li>JWT</li>
+            <li>PWAs</li>
             <li>Windows OS</li>
             <li>Mac OS</li>
             <li>Command Line</li>            
